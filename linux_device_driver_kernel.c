@@ -11,7 +11,8 @@
     -using "ioremap" in other vendors spi controller (26:17)
     -NXP->using much more complex way to do so such as using structure of bibang (26:17)
    -Lecture 23.3->SPI driver
-  -
+      ->spi_device
+      ->spi_driver
   -
 -
   -
