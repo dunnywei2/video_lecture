@@ -16,6 +16,7 @@
     -(13:55)
   -Lecture 23.4
     -(7:31)
+    -the rest will be really similar to I2C part for character driver (14:12)
   -
 -
   -
