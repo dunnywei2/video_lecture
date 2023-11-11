@@ -24,8 +24,13 @@
     -SPI transfer async and sync (25:23)
   -Lecture 23.5
       - (00:34)
+      -using external GPIO as chip select (00:45)
+      -rests skip for now**********************************************************
+  -Lecture 24.1_UART
+      - (00:42)(1:32)
       -
-      -
+  -
+
 -
   -
   -
