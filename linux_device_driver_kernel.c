@@ -22,7 +22,10 @@
     -Be aware that even though it is a platform driver, we still need to creacte character device (15:00)
     -Need to use LINUX kernel API to read/write SPI (18:58)
     -SPI transfer async and sync (25:23)
-  -
+  -Lecture 23.5
+      - (00:34)
+      -
+      -
 -
   -
   -
