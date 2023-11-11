@@ -20,7 +20,7 @@
     -Why don't we use platform driver into I2C and SPI?
     -The reason is that I2C and SPI has its own hiearchy architecture therefore we need to use it. For the platform driver->we ONLY utilize this one if there is no built in hierachy or architecture (15:27)
     -Be aware that even though it is a platform driver, we still need to creacte character device (15:00)
-    -
+    -Need to use LINUX kernel API to read/write SPI (18:58)
 
   -
 -
