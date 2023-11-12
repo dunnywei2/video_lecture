@@ -28,8 +28,8 @@
       -rests skip for now**********************************************************
   -Lecture 24.1_UART
       - (00:42)(1:32)
-      -
-  -
+      -UART_port and UART_driver (4:56)
+  -Be aware of uart_ops (10:04)
 
 -
   -
