@@ -1,2 +1,5 @@
 1->Files need to see->/home/dunny_nitro5_linux/bsp_34_5_1/Linux_for_Tegra/source/public/kernel/kernel-5.10/drivers/gpio/gpio-tegra.c
 2->compile jetson orin nano with specific driver->https://developer.ridgerun.com/wiki/index.php/Raspberry_Pi_Camera_Module_3_IMX708_Linux_driver_for_Jetson
+3->yocoto support Jetson orin nano->https://developer.ridgerun.com/wiki/index.php?title=Yocto_Support_for_NVIDIA_Jetson_Platforms
+4->https://github.com/OE4T/tegra-demo-distro#Prerequisites
+5->https://github.com/OE4T/meta-tegra
