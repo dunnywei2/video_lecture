@@ -37,8 +37,8 @@
       - (4:12)
       -Need to know if UART1 <->ttymc0->we need to check manually (10:54)
      -Instead of writing app to do the test->we could use minocom to do so (11:51)
-- 
-  -
+  -Lecture 24.3_porting ncursees
+      -be aware that don't mess up between ARM and x86 otherwise things may not work (15:59)
   -
 -
   -
