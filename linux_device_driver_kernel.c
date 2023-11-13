@@ -35,6 +35,7 @@
       -uart may support RS-485 but required more configuration (23:14)
   -Lecture 24.2_UART
       - (4:12)
+      -Need to know if UART1 <->ttymc0->we need to check manually (10:54)
 -
   -
   -
