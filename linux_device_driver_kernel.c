@@ -29,13 +29,11 @@
   -Lecture 24.1_UART
       - (00:42)(1:32)
       -UART_port and UART_driver (4:56)
-  -Be aware of uart_ops (10:04)
-
--
-  -
-  -
--
-  -
+      -Be aware of uart_ops (10:04)
+      - TTY and UART are combined (14:00)
+      -IOMAP (21:01) with base address then start to use base address (21:02)
+      -uart may support RS-485 but required more configuration (23:14)
+  -Lecture 24.2_UART
   -
 -
   -
