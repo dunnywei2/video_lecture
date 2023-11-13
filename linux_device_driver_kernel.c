@@ -34,7 +34,7 @@
       -IOMAP (21:01) with base address then start to use base address (21:02)
       -uart may support RS-485 but required more configuration (23:14)
   -Lecture 24.2_UART
-  -
+      - (4:12)
 -
   -
   -
