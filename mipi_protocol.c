@@ -10,3 +10,6 @@
   ->I3C linux->
   a)https://www.youtube.com/watch?v=lMncnFsTJhA&pp=ygUJaTNjIGxpbnV4
   b)https://www.youtube.com/watch?v=AtgrDMrCcVI&list=PLLmhTu6KRAa1mPwFgkBMHfveBGlrS1HAJ
+->automotive protocol
+  a)lin protocol->https://www.youtube.com/watch?v=AtgrDMrCcVI&list=PLLmhTu6KRAa1mPwFgkBMHfveBGlrS1HAJ
+  b)can bus
