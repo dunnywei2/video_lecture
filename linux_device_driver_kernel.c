@@ -44,6 +44,7 @@
     -be aware of jumper (1:48)
     -How to set up minicom (4:33)
     -minicom need to clear the screen (10:30)
+    -linux uart protocol (串口编程)
 -
   -
   -
