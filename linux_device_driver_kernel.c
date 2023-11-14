@@ -39,6 +39,7 @@
      -Instead of writing app to do the test->we could use minocom to do so (11:51)
   -Lecture 24.3_porting ncursees
       -be aware that don't mess up between ARM and x86 otherwise things may not work (15:59)
+      -need to edit /etc/passwrd ->relate sth for user name and password (30:22)
   -
 -
   -
