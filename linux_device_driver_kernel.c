@@ -40,7 +40,10 @@
   -Lecture 24.3_porting ncursees
       -be aware that don't mess up between ARM and x86 otherwise things may not work (15:59)
       -need to edit /etc/passwrd ->relate sth for user name and password (30:22)
-  -
+  -Lecture 24.4_UART
+    -be aware of jumper (1:48)
+    -How to set up minicom (4:33)
+    -minicom need to clear the screen (10:30)
 -
   -
   -
