@@ -4,3 +4,5 @@
   ->linux->https://www.youtube.com/watch?v=UG7tMZM24UU&pp=ygUKbWlwaSBsaW51eA%3D%3D
 2-> MIPI CSI 驱动
      ->https://www.bilibili.com/video/BV1t8411q7rX/?spm_id_from=333.337.search-card.all.click
+3->I3C->
+  ->https://www.youtube.com/watch?v=g3TBNHec5Ec
