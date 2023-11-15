@@ -9,6 +9,7 @@
   ->I3C training TI->https://www.youtube.com/watch?v=oESuzmErm0I
   ->I3C linux->
   a)https://www.youtube.com/watch?v=lMncnFsTJhA&pp=ygUJaTNjIGxpbnV4
+    -New command line as SETXTINE not sure if it supported for mipi csi-2 (28:58)
   b)https://www.youtube.com/watch?v=AtgrDMrCcVI&list=PLLmhTu6KRAa1mPwFgkBMHfveBGlrS1HAJ
 ->automotive protocol
   a)lin protocol->https://www.youtube.com/watch?v=AtgrDMrCcVI&list=PLLmhTu6KRAa1mPwFgkBMHfveBGlrS1HAJ
