@@ -13,6 +13,7 @@
     -reset feature (29:47)
     -RSTRACT (31:15)
     -HDR-BT (32:34)
+    -Linux API (33;37)
   b)https://www.youtube.com/watch?v=AtgrDMrCcVI&list=PLLmhTu6KRAa1mPwFgkBMHfveBGlrS1HAJ
 ->automotive protocol
   a)lin protocol->https://www.youtube.com/watch?v=AtgrDMrCcVI&list=PLLmhTu6KRAa1mPwFgkBMHfveBGlrS1HAJ
