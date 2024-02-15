@@ -2,7 +2,8 @@
     -necessary document (3:05)
     -install mingw (https://www.youtube.com/watch?v=MemMGcakCjk)
         ->sudo apt install mingw-w64
-    -
+    -install qemu ubuntu (https://itsfoss.com/qemu-ubuntu/)
+   
     -
 -
     -
