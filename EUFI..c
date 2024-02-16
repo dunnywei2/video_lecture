@@ -6,6 +6,8 @@
        ->LC_ALL=C lscpu | grep Virtualization
     -qemu-system-x86_64 (15:14)
     -ls /usr/share/ovmf/bios.bin
+    -EUFI application and loading with qemu (40:01)
+        -Not sure if it will support arm64
 -
     -
     -
