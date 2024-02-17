@@ -8,8 +8,8 @@
     -ls /usr/share/ovmf/bios.bin
     -EUFI application and loading with qemu (40:01)
         -Not sure if it will support arm64
--
-    -
-    -
+-EUFI as "BOOTAA64.efi jetson orin" 
+    -https://forums.developer.nvidia.com/t/cannot-change-uefi-boot-logo/213739
+    -https://github.com/NVIDIA/edk2-nvidia/wiki
     -
     -
