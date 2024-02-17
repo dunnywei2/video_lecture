@@ -13,4 +13,16 @@
         -https://github.com/NVIDIA/edk2-nvidia/wiki
     -GUID partition table gpt Disk layout (43:30)
         ->https://uefi.org/specs/UEFI/2.10/05_GUID_Partition_Table_Format.html
+-Part2    
+ -sgdisk in linux (3:17)
+ -
+ -
+ -
     -
+-    
+ -   
+    -
+-    
+ -   
+    -
+
