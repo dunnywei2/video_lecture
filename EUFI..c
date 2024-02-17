@@ -8,8 +8,9 @@
     -ls /usr/share/ovmf/bios.bin
     -EUFI application and loading with qemu (40:01)
         -Not sure if it will support arm64
--EUFI as "BOOTAA64.efi jetson orin" 
-    -https://forums.developer.nvidia.com/t/cannot-change-uefi-boot-logo/213739
-    -https://github.com/NVIDIA/edk2-nvidia/wiki
-    -
+    -EUFI as "BOOTAA64.efi jetson orin" 
+        -https://forums.developer.nvidia.com/t/cannot-change-uefi-boot-logo/213739
+        -https://github.com/NVIDIA/edk2-nvidia/wiki
+    -GUID partition table gpt Disk layout (43:30)
+        ->https://uefi.org/specs/UEFI/2.10/05_GUID_Partition_Table_Format.html
     -
