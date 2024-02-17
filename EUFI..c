@@ -15,7 +15,12 @@
         ->https://uefi.org/specs/UEFI/2.10/05_GUID_Partition_Table_Format.html
 -Part2    
  -sgdisk in linux (3:17)
+ -command->sgdisk -O  
+ -command->sgdisk -P
+ -   
  -
+ -
+-
  -
  -
     -
