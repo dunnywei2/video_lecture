@@ -23,7 +23,9 @@
     .signature=0xAA55, //(25:57)
     };
  ->image size in bytes to OBA as sector (31:48)//TODO:DW->Need to go over it again 
- -
+ ->At address of 0x000001c0->the content is 0200
+         -                               low  | high
+        -When we read the address it is 0x0002 where 0x00 is high and 0x02 is low->little endian
 -
  -
  -
