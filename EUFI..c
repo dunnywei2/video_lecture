@@ -20,6 +20,7 @@
  -Mbr mbr={
 
     .starting_chs={0x00,0x02,0x00}, //TODO:Need to go over it again (24:18)
+    .signature=0xAA55, //(25:57)
     };
  -
  -
