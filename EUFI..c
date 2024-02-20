@@ -22,17 +22,26 @@
     .starting_chs={0x00,0x02,0x00}, //TODO:DW->Need to go over it again (24:18)
     .signature=0xAA55, //(25:57)
     };
- ->image size in bytes to OBA as sector (31:48)//TODO:DW->Need to go over it again 
+ ->image size in bytes to OBA (should be LBA) as sector (31:48)//TODO:DW->Need to go over it again 
  ->At address of 0x000001c0->the content is 0x0200 (36:45)
          -                               low  | high
         -When we read the address it is 0x0002 where 0x00 is high and 0x02 is low->little endian
--
+-The size of LBA is 0117FF (37:56) since
+     -35 MiB=35*1024*1024
+     ->divide by LBA size as 512=35*1024*1024/512=71680d=11800h
+     -11800-1= 0117FFh
  -
  -
     -
 -    
  -   
     -
+-
+ -
+ -
+-
+ -
+ -
 -    
  -   
     -
