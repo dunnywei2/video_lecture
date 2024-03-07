@@ -5,6 +5,9 @@
     -Pinctrl with various state
 -Lecture_10
         -iterrupt and linux kernel
+    -using dtc to diassembly from dtb to dts -> (46:24)
+        ->dtc -I dtb -O dts *.dtb > all.dts (46:43)
+        ->
 
 -1)i2c using character device driver approach NOT platform approach
     -The reason for using character device driver is need to return sth to the application layer as copy_to
