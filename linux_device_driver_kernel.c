@@ -1,3 +1,11 @@
+-lecutre_08:Pinctrl and GPIO
+    -talk about BJT transistor
+    -how to use dtc to get the whole dts file from dtb
+-Lecture_09:Pintrl and GPIO
+    -Pinctrl with various state
+-Lecture_10
+        -iterrupt and linux kernel
+
 -1)i2c using character device driver approach NOT platform approach
     -The reason for using character device driver is need to return sth to the application layer as copy_to
   ->Lecture 22.3->https://www.bilibili.com/video/BV1fJ411i7PB?p=77&vd_source=352d86e561ef82fd069e1251bfae8933
