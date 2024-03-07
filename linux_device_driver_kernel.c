@@ -4,11 +4,12 @@
 -Lecture_09:Pintrl and GPIO
     -Pinctrl with various state
 -Lecture_10
+        -(https://www.youtube.com/watch?v=ZhNeyLcYyiw&list=PLX3M4Mi-TS8HXW85l_zPXpYRnrEIXCbyu&index=24)
         -iterrupt and linux kernel
     -using dtc to diassembly from dtb to dts -> (46:24)
         ->dtc -I dtb -O dts *.dtb > all.dts (46:43)
-        ->
-
+        ->Go through (1:10:00) and before hand->quite challenging
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 -1)i2c using character device driver approach NOT platform approach
     -The reason for using character device driver is need to return sth to the application layer as copy_to
   ->Lecture 22.3->https://www.bilibili.com/video/BV1fJ411i7PB?p=77&vd_source=352d86e561ef82fd069e1251bfae8933
