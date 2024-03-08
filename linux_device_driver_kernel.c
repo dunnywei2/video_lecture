@@ -8,8 +8,9 @@
         -iterrupt and linux kernel
     -using dtc to diassembly from dtb to dts -> (46:24)
         ->dtc -I dtb -O dts *.dtb > all.dts (46:43)
-        ->Hiearchy between GPIO<->GPC<->GIC<->CPU (54:52)
-        ->Go through (1:10:00) and before hand->quite challenging
+    ->Hiearchy between GPIO<->GPC<->GIC<->CPU (54:52)
+    ->in gpio_key_drv.c, it has init() for platform_driver_register() and probe() for setting up w.r.t device tree (1:10:10)
+    ->Go through (1:10:00) and before hand->quite challenging
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 -1)i2c using character device driver approach NOT platform approach
     -The reason for using character device driver is need to return sth to the application layer as copy_to
