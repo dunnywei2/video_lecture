@@ -8,6 +8,7 @@
         -iterrupt and linux kernel
     -using dtc to diassembly from dtb to dts -> (46:24)
         ->dtc -I dtb -O dts *.dtb > all.dts (46:43)
+        ->Hiearchy between GPIO<->GPC<->GIC<->CPU (54:52)
         ->Go through (1:10:00) and before hand->quite challenging
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 -1)i2c using character device driver approach NOT platform approach
