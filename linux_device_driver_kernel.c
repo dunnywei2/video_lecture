@@ -13,6 +13,28 @@
         -Need to check platform_device_register() for dirver.c ->https://elixir.bootlin.com/linux/latest/source/arch/arm/mach-orion5x/ts78xx-setup.c#L98
     ->Go through (1:10:00) and before hand->quite challenging
     ->After (1:10:10)->Example and tuning
+->Lecture 11 (https://www.youtube.com/watch?v=vGGdb5R-Fro&list=PLX3M4Mi-TS8HXW85l_zPXpYRnrEIXCbyu&index=21&t=794s)
+    -Non blocking interrupt
+    -blocking interrrupt and wake up (38:54)
+    -
+    -
+-
+-
+-
+-
+    -
+    -
+    -
+    -
+-
+-
+-
+-
+    -
+    -
+    -
+    -
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 -1)i2c using character device driver approach NOT platform approach
     -The reason for using character device driver is need to return sth to the application layer as copy_to
