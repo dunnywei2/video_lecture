@@ -16,7 +16,7 @@
 ->Lecture 11 (https://www.youtube.com/watch?v=vGGdb5R-Fro&list=PLX3M4Mi-TS8HXW85l_zPXpYRnrEIXCbyu&index=21&t=794s)
     -Non blocking interrupt
     -blocking interrrupt and wake up (38:54)
-    -
+    -LInux 内核源代码情景分析 (1:43:31)
     -
 -
 -
