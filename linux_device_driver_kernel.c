@@ -18,7 +18,28 @@
     -blocking interrrupt and wake up (38:54)
     -LInux 内核源代码情景分析 (1:43:31)
     -signal handling != sempahore as 信号量 (2:03:44)
+->Lecture 12->
+    ->POLLIN and POLLOUT for sound card (2:59)
+    -
+    -
+    -
 -
+-
+-
+    -
+    -
+    -
+    -
+-
+-
+-
+-
+    -
+    -
+    -
+    -
+
+    -
 -
 -
 -
