@@ -20,7 +20,7 @@
     -signal handling != sempahore as 信号量 (2:03:44)
 ->Lecture 12->
     ->POLLIN and POLLOUT for sound card (2:59)
-    -
+    ->ret!=POLL_IN then ret!=POLL_OUT (6:45)
     -
     -
 -
