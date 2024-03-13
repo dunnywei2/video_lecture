@@ -22,6 +22,10 @@
     ->POLLIN and POLLOUT for sound card (2:59)
     ->ret!=POLL_IN then ret!=POLL_OUT (6:45)
     ->Hardware interrupt and virtual(Software) interrupt with GIC (25:58)
+    ->sysfs with GPIO (36:27)
+    -
+    -
+    -
     -
 -
 -
