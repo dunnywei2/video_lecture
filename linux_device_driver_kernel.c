@@ -26,6 +26,7 @@
     ->Do we need to consider synchronization in device driver ?
         -For android Yes since multiple app may need to access it
         -For linux, we don't since maybe only one app access the device driver (41:39)
+        -assign GPIO interrupt to GIC (44:49)
     -
     -
     -
