@@ -28,6 +28,11 @@
         -For linux, we don't since maybe only one app access the device driver (41:39)
         -assign GPIO interrupt to GIC (44:49)
     ->Lwer layer eg GPIO0 needs to register to GIC (55:26)
+    ->drv_open->get 互次量 as semaphore take locks
+    ->drv_release-> release 信号量 as signal (1:00:03)
+    -
+    -
+    -
     -
     -
 -
