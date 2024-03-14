@@ -23,7 +23,9 @@
     ->ret!=POLL_IN then ret!=POLL_OUT (6:45)
     ->Hardware interrupt and virtual(Software) interrupt with GIC (25:58)
     ->sysfs with GPIO (36:27)
-    -
+    ->Do we need to consider synchronization in device driver ?
+        -For android Yes since multiple app may need to access it
+        -For linux, we don't since maybe only one app access the device driver (41:39)
     -
     -
     -
