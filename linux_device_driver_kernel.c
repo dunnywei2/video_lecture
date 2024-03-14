@@ -27,7 +27,7 @@
         -For android Yes since multiple app may need to access it
         -For linux, we don't since maybe only one app access the device driver (41:39)
         -assign GPIO interrupt to GIC (44:49)
-    -
+    ->Lwer layer eg GPIO0 needs to register to GIC (55:26)
     -
     -
 -
