@@ -34,6 +34,10 @@
     ->Multiple CPU with interrupt (1:19:54)(1:21:44)
     ->IOCTL (1:38:52)(1:43:22)
     ->QT (1:47:12)
+    ->Book recommends (1:48:57)
+    -
+    -
+    -
     -
     -
 -
