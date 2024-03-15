@@ -32,7 +32,8 @@
     ->drv_release-> release 信号量 as signal (1:00:03)
     ->POLL vs Asynchronous in GPIO device driver (1:03:14)
     ->Multiple CPU with interrupt (1:19:54)(1:21:44)
-    -
+    ->IOCTL (1:38:52)(1:43:22)
+    ->QT (1:47:12)
     -
     -
 -
