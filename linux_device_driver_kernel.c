@@ -1,3 +1,8 @@
+-Lecture04:
+    -registerchardev, device_create,class_create(1:50:10)
+    -kconfig with make menuconfig (2:02:31)
+
+
 -lecutre_08:Pinctrl and GPIO
     -talk about BJT transistor
     -how to use dtc to get the whole dts file from dtb
