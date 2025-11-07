@@ -40,7 +40,11 @@
     ->IOCTL (1:38:52)(1:43:22)
     ->QT (1:47:12)
     ->Book recommends (1:48:57)
-    -
+->11 用一个程序总结驱动机制
+as https://www.youtube.com/watch?v=vGGdb5R-Fro&t=5547s
+    - Non-blocking, block, epull, asynchronous
+        -Asynchronous as fasync with singal
+        -how does siganl and intrrupt happens (1:40:38)
     -
     -
     -
